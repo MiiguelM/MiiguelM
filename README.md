@@ -24,6 +24,10 @@
 <br/>
 
 <p align="center">
+  <a href="mailto:miguelmarianonovais@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/miguel-mariano-6a87aa2a0/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
